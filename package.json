@@ -1,5 +1,5 @@
 {
-    "name": "billomat-ts",
+    "name": "@ianmartorell/billomat-ts",
     "version": "0.3.0",
     "description": "Billomat API implementation in TypeScript for use in Node.js",
     "main": "dist/index.js",
